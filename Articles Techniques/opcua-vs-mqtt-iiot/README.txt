@@ -85,4 +85,3 @@ orientée analyse, compréhension des compromis et aide à la décision.
 Il ne s’agit pas d’une publication scientifique évaluée par des pairs,
 mais d’un article technique rédigé dans un cadre de formation d’ingénieur,
 avec une approche pragmatique et orientée terrain.
-``
