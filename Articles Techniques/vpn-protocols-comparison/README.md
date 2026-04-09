@@ -105,5 +105,3 @@ d’architectures réseau sécurisées.
 Il ne s’agit pas d’une publication scientifique évaluée par des pairs,
 mais d’un **article technique** rédigé dans un cadre de formation d’ingénieur,
 avec une approche pragmatique orientée architecture et exploitation terrain.
-
-Bonjoure Aujourd'hui
