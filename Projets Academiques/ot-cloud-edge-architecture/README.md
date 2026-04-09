@@ -2,7 +2,7 @@
 
 ## Type de projet
 Projet académique  
-Formation Ingénieur Génie Logiciel
+Formation Ingénieur Architecture de Logiciel & de Systèmes
 
 ---
 
