@@ -1,6 +1,6 @@
 
 **Ce dossier centralise mes ressources de veille sur l'Industrie 4.0**, incluant :
-- **Normes et standards** (IEC 62443, ISO, NIST).
+- **Normes et standards** (IEC 62443, ISA-95, ISO, NIST).
 - **Outils et technologies** (IIoT, Edge Computing, Digital Twins, Cloud Industriel).
 - **Tendances et innovations** (articles, rapports, études de cas).
 - **Ressources pédagogiques** (livres blancs, webinaires, tutoriels).
