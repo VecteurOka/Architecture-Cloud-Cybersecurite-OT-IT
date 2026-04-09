@@ -1,4 +1,3 @@
-
 # Étude comparative des protocoles OPC-UA et MQTT pour architectures IIoT
 
 ## Type de contenu
