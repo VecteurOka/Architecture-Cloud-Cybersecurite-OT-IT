@@ -15,8 +15,8 @@ Ce dépôt a pour objectif de :
 
 ## 📂 Structure du dépôt
 - `00_Documentation/` : Guides et normes
-- `01_Projets-Academiques/` : Projets universitaires
-- `02_Articles-et-Recherches/` : Publications et recherches
+- `01_Projets Academiques/` : Projets universitaires
+- `02_Articles techniques/` : Publications et recherches
 - `03_Expérimentations et POCs/` : Lab
 - `04_Veille I4.0/` : Ressources externes
 
