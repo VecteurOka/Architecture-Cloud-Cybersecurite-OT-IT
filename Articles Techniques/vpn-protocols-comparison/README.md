@@ -31,7 +31,7 @@ Analyser et comparer les protocoles VPN IPSec, OpenVPN et WireGuard afin :
 - d’évaluer leurs avantages et limites selon les contextes d’usage,
 - d’orienter les choix d’architecture pour la sécurisation des communications réseau.
 
-L’objectif est de fournir une **aide à la décision** pour l’architecte ou
+L'objectif est de fournir une **aide à la décision** pour l’architecte ou
 l’ingénieur réseau, et non de réaliser des benchmarks de performance exhaustifs.
 
 ---
